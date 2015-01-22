@@ -1,0 +1,15 @@
+ body {
+     padding: 0;
+     margin: 0;
+ }
+ #canvas-holder {
+     width: 30%;
+     border-style: solid;
+     border-width: 5px;
+     float: left;
+ }
+ #myCanvas {
+     border-style: solid;
+     border-width: 5px;
+     padding-bottom: 16px;
+ }
